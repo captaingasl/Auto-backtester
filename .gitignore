@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Cosas mías
+./pos.csv
+./tests.csv
+./temp.csv
+./json/
